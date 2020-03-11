@@ -38,7 +38,12 @@ namespace grocwry
             o3.SetQuantity(int.Parse(Console.ReadLine()));
 
             Console.WriteLine();
-            c1.ToString(o1, o2, o3);
+            c1.ToString();
+            o1.ToString();
+            o2.ToString();
+            o3.ToString();
+            Console.Write("\nTotal: ");
+            Console.WriteLine(o1.GetTotalPrice() + o2.GetTotalPrice() + o3.GetTotalPrice());
         }
     }
 }
