@@ -9,3 +9,14 @@ C:\Users\kenneth3495\source\repos\grocwry\grocwry\obj\Debug\netcoreapp3.1\grocwr
 C:\Users\kenneth3495\source\repos\grocwry\grocwry\obj\Debug\netcoreapp3.1\grocwry.AssemblyInfo.cs
 C:\Users\kenneth3495\source\repos\grocwry\grocwry\obj\Debug\netcoreapp3.1\grocwry.dll
 C:\Users\kenneth3495\source\repos\grocwry\grocwry\obj\Debug\netcoreapp3.1\grocwry.pdb
+C:\Users\kenneth3495\Desktop\grocery\grocwry\bin\Debug\netcoreapp3.1\grocwry.exe
+C:\Users\kenneth3495\Desktop\grocery\grocwry\bin\Debug\netcoreapp3.1\grocwry.deps.json
+C:\Users\kenneth3495\Desktop\grocery\grocwry\bin\Debug\netcoreapp3.1\grocwry.runtimeconfig.json
+C:\Users\kenneth3495\Desktop\grocery\grocwry\bin\Debug\netcoreapp3.1\grocwry.runtimeconfig.dev.json
+C:\Users\kenneth3495\Desktop\grocery\grocwry\bin\Debug\netcoreapp3.1\grocwry.dll
+C:\Users\kenneth3495\Desktop\grocery\grocwry\bin\Debug\netcoreapp3.1\grocwry.pdb
+C:\Users\kenneth3495\Desktop\grocery\grocwry\obj\Debug\netcoreapp3.1\grocwry.csprojAssemblyReference.cache
+C:\Users\kenneth3495\Desktop\grocery\grocwry\obj\Debug\netcoreapp3.1\grocwry.AssemblyInfoInputs.cache
+C:\Users\kenneth3495\Desktop\grocery\grocwry\obj\Debug\netcoreapp3.1\grocwry.AssemblyInfo.cs
+C:\Users\kenneth3495\Desktop\grocery\grocwry\obj\Debug\netcoreapp3.1\grocwry.dll
+C:\Users\kenneth3495\Desktop\grocery\grocwry\obj\Debug\netcoreapp3.1\grocwry.pdb

@@ -26,15 +26,15 @@ namespace grocwry
         public void SetName(string n) { name = n; }
         public void SetCounterNumber(int c) { counterNumber = c; }
 
-        public void DisplayTotal(Order o1, Order o2, Order o3)
-        {
-            Console.Write("\nTotal: ");
-            Console.WriteLine(o1.GetTotalPrice() + o2.GetTotalPrice() + o3.GetTotalPrice());
-        }
-        public void ToString()
+        public void ToString(Order o1, Order o2, Order o3)
         {
             Console.WriteLine("Paid for " + GetName() + 
                 " of Counter " + GetCounterNumber());
+            o1.ToString();
+            o2.ToString();
+            o3.ToString();
+            Console.Write("\nTotal: ");
+            Console.WriteLine(o1.GetTotalPrice() + o2.GetTotalPrice() + o3.GetTotalPrice());
         }
     }
 }

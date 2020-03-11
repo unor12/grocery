@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kenneth3495\\source\\repos\\grocwry\\grocwry\\grocwry.csproj",
+      "projectUniqueName": "C:\\Users\\kenneth3495\\Desktop\\grocery\\grocwry\\grocwry.csproj",
       "projectName": "grocwry",
-      "projectPath": "C:\\Users\\kenneth3495\\source\\repos\\grocwry\\grocwry\\grocwry.csproj",
+      "projectPath": "C:\\Users\\kenneth3495\\Desktop\\grocery\\grocwry\\grocwry.csproj",
       "packagesPath": "C:\\Users\\kenneth3495\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kenneth3495\\source\\repos\\grocwry\\grocwry\\obj\\",
+      "outputPath": "C:\\Users\\kenneth3495\\Desktop\\grocery\\grocwry\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kenneth3495\\AppData\\Roaming\\NuGet\\NuGet.Config",
