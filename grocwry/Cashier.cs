@@ -28,8 +28,7 @@ namespace grocwry
 
         public void ToString(Order o1, Order o2, Order o3)
         {
-            Console.WriteLine("Paid for " + GetName() + 
-                " of Counter " + GetCounterNumber());
+            Console.WriteLine("Paid for " + GetName() + " of Counter " + GetCounterNumber());
             o1.ToString();
             o2.ToString();
             o3.ToString();
